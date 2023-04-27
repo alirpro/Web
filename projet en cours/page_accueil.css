@@ -1,0 +1,41 @@
+h1{
+  text-align : center ;
+  font-family  : impact,fantasy ;
+  color : red;
+  font-size : 300%;
+}
+#identifiant{
+ text-align : right  ;
+ width : 60% ;
+}
+form{
+border : solid;
+background-color : white ;
+}
+body{
+ text-align : center  ;
+}
+#sous-paragraphe{
+font-size : 70% ;
+background-color : green ;
+border : inset;
+}
+#connecter{
+  text-align : center ;
+  font-size  : 120% ;
+  width : 270px ;
+  background-color : green ;
+  border : solid;
+  color : white ;
+}
+#inscrire{
+  text-align : center ;
+  font-size  : 120% ;
+  width : 250px ;
+  background-color : blue ;
+  border : solid;
+  color : white ;
+}
+html{
+  background-image : url('vache.jpg');
+}

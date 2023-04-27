@@ -1,0 +1,13 @@
+h1{
+  text-align : center;
+}
+h2{
+  text-align : left;
+  color: rgb(0,128,0);
+  font-family  : Courier;
+}
+p{
+  text-align : justify;
+}
+
+

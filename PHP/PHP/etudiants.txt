@@ -1,0 +1,6 @@
+237348;Croque;Odile;L1 MIEEA
+237349;Bistrucla;César;L2 Maths
+237385;Hochon;Paul;L3 Info
+237386;Térieur;Alain;M1 Info
+236444;Térieur;Alex;M2 Info
+242526;Bonneau;Jean;L1 IEEEA

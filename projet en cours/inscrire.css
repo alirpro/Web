@@ -1,0 +1,51 @@
+h1{
+  text-align : center ;
+  font-family  : impact,fantasy ;
+  font-size : 250%;
+  color : white;
+}
+#p1{
+  text-align : center ;
+  font-family  : luminari,fantasy;
+  font-weight : 900;
+  font-style  : italic ;
+  color : red;
+  font-size : 100%;
+}
+form{
+  text-align : center ;
+  font-size : 100%;
+  font-family  : impact,fantasy;
+
+}
+p{
+ text-align : right;
+ width : 60%;
+}
+#petit{
+  font-size  : 75% ;
+  color : yellow;
+}
+#bouton{
+  text-align : center ;
+  font-size  : 100% ;
+  width : 250px ;
+  background-color : green ;
+  color : white ;
+}
+#date{
+text-align : center;
+width : 76%;
+
+}
+#genre{
+text-align : center;
+width : 100%
+}
+#bordure{
+border : solid;
+background-color : green ;
+}
+html{
+  background-image : url('bodiversite.jpg');
+}

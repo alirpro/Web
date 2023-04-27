@@ -1,0 +1,12 @@
+
+p{
+  text-align: center;
+  color : rgb(0,128,0)
+}
+table{
+  border: solid;
+  width : 90%
+}
+th,td{
+  border : solid
+}

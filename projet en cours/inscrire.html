@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+	<head>
+    <meta charset="utf-8" />
+    <title>inscription</title>
+    <link rel="stylesheet" href="./inscrire.css" />
+	</head>
+
+	<body>
+     <h1>S'INSCRIRE</h1>
+     <div id = "p1" > C'est rapide et facile.
+      </div>
+  <form action="traite.php" method="post">
+    <div id = "bordure">
+    <p>
+       Nom de famille : <input type="text" id="nom" name ="nom"/>
+    </p>
+    <p>
+       Prénom : <input type="text" name="prenom" />
+    </p>
+    <p>
+     Numéro ou Email : <input type="text" name="login" />
+    </p>
+    <p>
+     Nouveau mot de passe : <input type="password" name="password" />
+    </p>
+    <p id="date">
+     Date de naissance : <input type="date" name="birthdate" />
+    </p>
+      <p id="genre">
+      Genre :
+      Masculin <input type="radio" name="sexe" value="M" />
+      Féminin <input type="radio" name="sexe" value="F" />
+      Autre <input type="radio" name="sexe" value="A" />
+    </p></div></br>
+    </br></br>
+    <div id = "petit">
+    Les personnes qui utilisent notre service ont pu importer vos coordonnées
+    sur le recyclage de pets de vaches. </br>
+    En cliquant sur S’inscrire, vous acceptez nos Conditions générales.</br>
+    Vous recevrez peut-être des notifications par texto de notre part et vous
+    pouvez à tout moment vous désabonner.
+    </div></br>
+    <input id = "bouton" type="submit" value="S'inscrire" />
+  </form>
+</body>
+</html>
+
